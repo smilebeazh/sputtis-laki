@@ -39,9 +39,17 @@ Tavoitteena on työkalu, jolla kuka tahansa voi turvallisesti selvittää, mitä
 
 ## Haen apua: juristi tai lakimies, myös eläkkeellä oleva
 
-Etsin juridista ammattilaista, joka voisi auttaa arvioinnissa. Työ on käytännössä sitä, että valmiista listasta merkitään, mitkä pykälät oikeasti liittyvät kuhunkin tilanteeseen. Aineisto on julkisia oikeusratkaisuja, eikä siinä ole henkilötietoja. Työtä on arviolta 10–15 tuntia, ja sen voi tehdä omaan tahtiin.
+Etsin juridista ammattilaista, joka voisi auttaa arvioinnissa. Työ on käytännössä sitä, että valmiista listasta merkitään, mitkä pykälät oikeasti liittyvät kuhunkin tilanteeseen. Aineisto on julkisia oikeusratkaisuja, eikä siinä ole henkilötietoja.
+
+Aloitetaan noin 10 tapauksen kokeilulla, joka vie arviolta 1–2 tuntia. Sen jälkeen nähdään, kuinka paljon aikaa yksi tapaus todella vie, ja voit päättää, jatkatko ja kuinka paljon. Pienikin apu on arvokasta: jokainen tarkistettu tapaus vie projektia eteenpäin ja antaa sille mahdollisuuden kehittyä oikeasti toimivaksi. Työn voi tehdä omaan tahtiin.
 
 Projekti on vapaaehtoinen, eikä minulla ole rahaa maksaa työstä. Autan mielelläni vastineeksi esimerkiksi käytännön töissä, joista sovitaan erikseen.
+
+## Pitkän aikavälin toive
+
+Paras tilanne olisi, että ihminen kävisi läpi kaikki vaikeat tapaukset ja jokaisen uuden lisäyksen. Kone voi tarkistaa, että lakiteksti on sanatarkka, mutta vain juridinen ammattilainen voi arvioida, liittyykö pykälä oikeasti tilanteeseen.
+
+Jos työkalusta tulee toimiva ja hyödyllinen, toiveeni on, että sen kehittämistä voitaisiin joskus tukea myös julkisesti. Silloin esimerkiksi oikeustieteen opiskelijat voisivat tehdä tarkistustyötä kesätöinä tai harjoitteluna. Se tekisi työkalusta luotettavamman ja antaisi opiskelijoille käytännön kokemusta. Tämä on toive eikä suunnitelma, eikä mikään taho ole sitoutunut siihen.
 
 ## Ota yhteyttä ja ehdota ideoita
 
