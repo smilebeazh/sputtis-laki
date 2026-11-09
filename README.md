@@ -23,17 +23,19 @@ Tavoitteena on työkalu, jolla kuka tahansa voi turvallisesti selvittää, mitä
 ## Missä ollaan nyt (marraskuu 2026)
 
 **Valmista:**
-- Voimassa olevat lait Finlexin avoimesta datasta, noin 148 000 pykälää. Jokainen pykälä on tarkistettu sanatarkasti alkuperäistä Finlexin aineistoa vasten.
+- Voimassa olevat lait Finlexin avoimesta datasta, noin 148 000 pykälää. Jokainen pykälä on tarkistettu koneellisesti sanatarkasti alkuperäistä Finlexin aineistoa vasten.
 - Haku, joka yhdistää sanahaun ja merkityksen mukaisen haun.
-- Lukija, joka näyttää vain sanatarkasti tarkistettuja lainauksia. Mittauksissa keksittyjä lainauksia on ollut 0.
-- Lukittu hyväksymistesti, jolla jokainen muutos tarkistetaan ennen käyttöönottoa.
+- Lukija, joka näyttää vain sanatarkasti tarkistettuja lainauksia. Automaattisissa mittauksissa keksittyjä lainauksia on ollut 0.
+- Automaattinen testisarja, jolla jokainen muutos tarkistetaan ennen käyttöönottoa. Osa testeistä on lukittu, eikä niitä käytetä virittämiseen.
+
+**Tärkeä rajoitus:** kaikki tähänastiset tarkistukset ovat koneellisia. Testisarjan oikeat vastaukset on laatinut tekoäly, ja projektin tekijä on hyväksynyt ne. Juristi ei ole vielä tarkistanut niitä. Siksi mittaustulokset ovat suuntaa antavia, kunnes juridinen ammattilainen on käynyt ne läpi.
 
 **Työn alla:**
 - **Haun tarkkuus arkikielisillä kysymyksillä.** Mittausten mukaan haku löytää oikean pykälän usein, mutta järjestää sen liian alas. Joillakin oikeusaloilla, kuten uhkasakko, ulosotto ja oikeudenkäyntimenettely, haku jää vielä heikoksi.
 - Parannuksia kokeillaan yksi kerrallaan, ja jokainen mitataan ennen käyttöönottoa.
 
 **Seuraavaksi:**
-- Juridisen ammattilaisen tarkistama arviointiaineisto, jotta parannukset voidaan mitata luotettavasti.
+- Ensimmäinen ihmisen tekemä tarkistus: juridinen ammattilainen käy läpi testisarjan ja arviointiaineiston, jotta parannukset voidaan mitata luotettavasti.
 
 ## Haen apua: juristi tai lakimies, myös eläkkeellä oleva
 
@@ -53,4 +55,4 @@ Lakitekstien lähde: Finlex (oikeusministeriö), avoin data.
 
 ---
 
-**In English:** Sputtis Laki is a personal, non-commercial project: a local search tool that helps ordinary people find the Finnish law text relevant to their situation. Every quoted law text is verbatim from Finlex; if no source is found, the answer is "not found". Questions are processed locally and never stored or sent online. This is not legal advice. Code is not shared here. I'm looking for a Finnish legal professional, retirees welcome, to help evaluate search results on a volunteer basis.
+**In English:** Sputtis Laki is a personal, non-commercial project: a local search tool that helps ordinary people find the Finnish law text relevant to their situation. Every quoted law text is verbatim from Finlex; if no source is found, the answer is "not found". All checks so far are automated; no legal professional has reviewed the test answers yet. Questions are processed locally and never stored or sent online. This is not legal advice. Code is not shared here. I'm looking for a Finnish legal professional, retirees welcome, to help evaluate search results on a volunteer basis.
